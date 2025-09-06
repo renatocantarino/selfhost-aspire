@@ -74,4 +74,3 @@ coverage*.json
 ._*
 
 # Files that might be created by Aspire Host
-apphost/
